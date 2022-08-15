@@ -26,11 +26,11 @@ public class LectureDatatype {
 		
 		System.out.println(intOne);
 		
-		long longOne = 4;
+		long longOne = 4L;
 		
 		System.out.println(longOne);
 		
-		float floatOne = 0.1f;
+		float floatOne = 0.1F;
 		
 		System.out.println(floatOne);
 		
